@@ -11,5 +11,6 @@ public void increment() {
 	System.out.println(intValue++);
 	System.out.println(intValue);
 	System.out.println(++intValue);
+	System.out.println(++intValue);
 	}
 }
